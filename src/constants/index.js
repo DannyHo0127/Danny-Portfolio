@@ -8,6 +8,13 @@ export const HERO_CONTENT = `I am a passionate and driven computer science stude
 
 export const EXPERIENCES = [
   {
+    year: "May 2025 - August 2025",
+    role: "Digital Technology - Computer Vision Intern",
+    company: "GE Vernova",
+    description: `The role involved optimizing computer vision pipelines and solutions to enhance automation and researching synthetic image generation to improve computer vision solution accuracy. I also help lead an AI initiative to inspire individuals to explore AI topics.`,
+    skills: ["AWS", "Python", "DAX", "Numpy", "Pandas", "OpenCV"],
+  },
+  {
     year: "January 2024 - May 2025",
     role: "Business Intelligence Intern",
     company: "AFL Telecommunications",
@@ -25,11 +32,27 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "License Plate Detector",
+    description:
+      "Developed and implemented a YOLOv11 computer vision model for license plate object detection with 96% accuracy. Trained model with over 5000+ images and create test scripts using OpenCV and Python for real-time inference. Integrated an Optical Character Recognition module to extract license plate characters from detected regions...",
+    technologies: ["Google Colab", "Python", "Ultralytics", "OpenCV", "EasyOCR"],
+    year: "May 2025",
+    link: "https://github.com/DannyHo0127/LicenseDetector"
+  },
+  {
+    title: "TigerChow-API",
+    description:
+      "Designed and Deployed RESTful APIs for Account, Notifi cation, and Order services using AWS and Postman. Applied modern software design principles, including the Decorator pattern, to amplify code reusability.",
+    technologies: ["AWS", "Python", "Postman", "YAML", "JSON"],
+    year: "April 2025",
+    link: "https://github.com/DannyHo0127/Tigerchow-API"
+  },
+  {
     title: "Nail Website",
     description:
       "A simple Nail website that promotes a local business. Featuring key pages such as home, about, services, and locations page to promote business.",
     technologies: ["HTML", "CSS", "Javascript"],
-    year: "September 2023",
+    year: "September 2024",
     link: "https://github.com/DannyHo0127/Polish-Nail-Bar"
   },
   {
