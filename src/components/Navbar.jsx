@@ -18,7 +18,7 @@ const Navbar = () => {
         <nav className="bg-black sticky top-0 z-50 w-full ">
             <div className="flex items-center justify-between px-6 py-10">
                 <div className="flex items-center gap-6 text-white">
-                    <a href="/Danny_K_Ho_Resume Public.pdf" download="Danny_K_Ho_Resume Public.pdf" className="text-lg hover:underline">
+                    <a href="/Danny_K_Ho_Resume.pdf" download="Danny_K_Ho_Resume.pdf" className="text-lg hover:underline">
                         Resume
                     </a>
                     <a href="https://www.linkedin.com/in/dannykho/" target="_blank" rel="noopener noreferrer">

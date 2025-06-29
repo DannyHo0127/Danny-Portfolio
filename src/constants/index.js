@@ -9,7 +9,7 @@ export const HERO_CONTENT = `I am a passionate and driven computer science stude
 export const EXPERIENCES = [
   {
     year: "May 2025 - August 2025",
-    role: "Digital Technology - Computer Vision Intern",
+    role: "Computer Vision Intern",
     company: "GE Vernova",
     description: `The role involved optimizing computer vision pipelines and solutions to enhance automation and researching synthetic image generation to improve computer vision solution accuracy. I also help lead an AI initiative to inspire individuals to explore AI topics.`,
     skills: ["AWS", "Python", "DAX", "Numpy", "Pandas", "OpenCV"],
